@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">CarDamageScanner</string>
+    <string name="take_photo">Сделать фото</string>
+    <string name="choose_from_gallery">Выбрать из галереи</string>
+    <string name="open">Открыть</string>
+    <string name="permission_denied">Разрешение отклонено</string>
+    <string name="permission_denied_forever_message">"Вы навсегда отказали в разрешениях. Вы можете изменить свое решение в настройках приложения.\n\Хотите открыть настройки приложения?"</string>
+    <string name="tv_description_bottom">Сделайте фотографии в определенных ракурсах и система предоставит отчет о найденных повреждениях</string>
+    <string name="tv_description_top">Система определения повреждения автомобилей</string>
+    <string name="welcome_picture">welcome picture</string>
+    <string name="start_main_text">Зарегистрируйтесь или зайдите в уже существующий аккаунт</string>
+    <string name="next">Далее</string>
+    <string name="input_your_number">Введите номер телефона</string>>
+    <string name="button_back">button back</string>
+    <string name="Enter">Войти</string>
+    <string name="prefix_number">+7 (</string>
+    <string name="mask_on_number">+7 ([000]) [000]-[00]-[00]</string>
+    <string name="helper_text_number">Вводите номер в формате +7 (999) 999–99–99</string>
+    <string name="empty_string" />
+    <string name="your_code">Ваш код</string>
+    <string name="text_for_code_input">На указанный вами номер <u>%s</u> отправлено SMS с кодом подтверждения. \nВведите его в поле ниже.</string>
+    <string name="input_code_timer">Отправить код повторно можно через %d секунд</string>
+    <string name="send_code_again">Отправить код повторно</string>
+    <string name="my_reports">Мои отчёты</string>
+    <string name="scan_car">Просканировать автомобиль</string>
+    <string name="logout_button">logout button</string>
+    <string name="create_your_first_report">Создайте свой первый отчет</string>
+    <string name="arrow_for_create_first_report">arrow for create first report</string>
+    <string name="report_about_find_off">Отчет о проверке</string>
+    <string name="front_part_of_car">Передняя часть автомобиля</string>
+    <string name="back_part_of_car">Задняя часть автомобиля</string>
+    <string name="left_part_of_car">Левая часть автомобиля</string>
+    <string name="right_part_of_car">Правая часть автомобиля</string>
+    <string name="front_part_of_car_short">Передняя часть</string>
+    <string name="back_part_of_car_short">Задняя часть</string>
+    <string name="left_part_of_car_short">Левая часть</string>
+    <string name="right_part_of_car_short">Правая часть</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_photos_with_nice_rakurs">Добавьте фотографии автомобиля с необходимого ракурса</string>
+    <string name="Send">Отправить</string>
+
+</resources>
