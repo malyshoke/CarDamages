@@ -1,0 +1,27 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.CarDamageScanner" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@color/main</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <style name="Theme.CarDamageScanner" parent="Base.Theme.CarDamageScanner" />
+
+    <style name="EDIT_TEXT" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense">
+        <item name="boxBackgroundColor">@color/white</item>
+        <item name="android:textColorHint">@color/black</item>
+        <item name="boxStrokeColor">@color/main</item>
+        <item name="hintTextColor">@color/black</item>
+    </style>
+
+    <style name="EDIT_TEXT_INPUT_CODE">
+        <item name="android:background">@drawable/round_edit_text</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textCursorDrawable">@drawable/cursor_color_edit_text</item>
+    </style>
+
+    <style name="TEXT">
+        <item name="fontFamily">@font/mulish</item>
+        <item name="android:textColor">@color/main</item>
+    </style>
+</resources>
