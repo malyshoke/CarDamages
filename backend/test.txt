@@ -1,0 +1,13 @@
+    {
+        "labels": {
+            "background": 1,
+            "dent": 0,
+            "glass_shatter": 0,
+            "lamp_broken": 0,
+            "scratch": 0,
+            "tire_flat": 0
+        },
+        "part": "front",
+        "request_time": "26.05.2024 00:29:17",
+        "urls": "http://192.168.0.10:8080/images/5bf65b589dcb4cb496a19d1910244cd5.png"
+    }
